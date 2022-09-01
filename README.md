@@ -1,9 +1,9 @@
 ### Olá, sou a Déborah 👋
 
 
-- 🔭 Atualmente estou em busca do meu primeiro trabalho em programação
-- 🌱 Estudando cursos que aprimorem meus conhecimentos. JavaScript | CSS3 | HTML5
-- 😄 Pronouns: ela/dela
+- 👩‍💻 Atualmente estou em busca do meu primeiro trabalho com programação
+- 💻 Estudando cursos que aprimorem meus conhecimentos. JavaScript | CSS3 | HTML5
+- 🏳️‍🌈 Pronouns: ela/dela
 
 <a href = "https://github.com/DehhEllen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeehEllen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
