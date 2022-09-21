@@ -1,7 +1,7 @@
 ### Olá, sou a Déborah 👋
 
 
-- 👩‍💻 Atualmente estou em busca do meu primeiro trabalho com programação
+
 - 💻 Estudando cursos que aprimorem meus conhecimentos. JavaScript | CSS3 | HTML5
 - 🏳️‍🌈 Pronouns: ela/dela
 
