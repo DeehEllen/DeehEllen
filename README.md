@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/d%C3%A9borahellende" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
    <a href="https://instagram.com/dborahss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
    <a href="mailto:deborah.3ellen@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-  <a href="https://www.discord.gg/wagxzStdcR " target="_blank"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+ 
 
 ![Animação de cobra](https://github.com/deehellen/deehellen/blob/output/github-contribution-grid-snake.svg)
  
