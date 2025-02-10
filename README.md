@@ -3,7 +3,7 @@
 
 
 - 💻 Studying to improve my knowledge. JavaScript | CSS3 | HTML5
-- 🏳️‍🌈 Pronouns: she / her
+  
 
 <a href = "https://github.com/DehhEllen">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeehEllen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
